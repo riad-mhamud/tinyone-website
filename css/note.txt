@@ -1,0 +1,9 @@
+mapping for responsivenes
+                       xx/lg              md          small /col
+
+  slider start 
+
+  h1
+  h1 
+  p 
+  icon                     
